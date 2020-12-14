@@ -18,3 +18,6 @@ Here are some examples:
 watch 0.1 nvidia-smi
 watch 1 nvidia-smi -q -d CLOCK
 ```
+
+## Notice
+It will mess up your terminal, so be sure to run it in an individual terminal.
